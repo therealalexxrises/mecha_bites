@@ -10,7 +10,17 @@
     font-family: "Bruno Ace SC", serif;
 }
 
+.navbar span {
+    font-weight: 700;
+    font-size: 30px;
+}
+
 .navbar a {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.collapse a {
     font-weight: 600;
     font-size: 18px;
 }
@@ -91,8 +101,16 @@
     font-weight: 800;
 }
 
+.row {
+    justify-content: center;
+}
+
 .product {
     padding: 80px 0;
+}
+
+.card-body{
+    text-align: center;
 }
 
 .card img {
